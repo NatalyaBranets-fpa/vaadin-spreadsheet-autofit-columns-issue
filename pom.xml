@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Project from https://start.vaadin.com/35b9222a-60a5-4813-9f98-ba5a09a61839 -->
     <groupId>com.example</groupId>
-    <artifactId>app</artifactId>
+    <artifactId>vaadin-spreadsheet-autofit-columns-issue</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
     
