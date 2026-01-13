@@ -1,0 +1,1 @@
+# vaadin-spreadsheet-autofit-columns-issue
